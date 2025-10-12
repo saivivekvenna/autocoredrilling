@@ -1,0 +1,8 @@
+Follow the set up below before you break everything :)
+
+Paste the commands below into your code terminal
+
+python3 -m venv coredrilling
+source coredrilling/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
